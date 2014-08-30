@@ -1,0 +1,6 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+mauricio:
+  name: Mauricio Mayke Siqueira Melo
+  email: mauricio@muriciomelo.com.br
+
